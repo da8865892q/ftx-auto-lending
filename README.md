@@ -42,6 +42,8 @@ FTX 交易所的貸款每小時將會返回貸款利率，也就是說貸款金�
   1. 進入該專案料夾： `$ cd ftx-auto-lending`
   2. 使用 Python 3 執行腳本： `python3 ftx.py`
 
+<br>
+
 ## 相關文件
 
 - FTX - REST API: https://docs.ftx.com/#get-lending-info
